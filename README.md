@@ -135,8 +135,6 @@ python additional.py
 ├── README.md              # Documentation
 ├── requirements.txt       # Python dependencies
 
-
-
 ```
 
 ---
