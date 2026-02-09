@@ -140,6 +140,8 @@ python additional.py
 ├── requirements.txt       # Python dependencies
 
 ```
+### 📚 License
+This sample project is provided for educational and demonstration purposes.
 
----
+--- 
 
