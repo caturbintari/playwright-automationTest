@@ -7,11 +7,9 @@ This repository contains a sample automation testing framework built using Pytho
 
 The framework showcases automation testing implementation using Playwright with Python, covering the following areas:
 
-1. **API Automation**: Automated API test scenarios using a public demo REST API  
-   ([Reqres](https://reqres.in/))
+1. **API Automation**: Automated API test scenarios using a public demo REST API ([Reqres](https://reqres.in/))
 
-2. **Website Test Automation**: UI automation tests covering both positive and negative scenarios on a demo web application  
-   ([Sauce Demo](https://www.saucedemo.com/))
+2. **Website Test Automation**: UI automation tests covering both positive and negative scenarios on a demo web application ([Sauce Demo](https://www.saucedemo.com/))
 
 3. **Data Generation Script**: A script that fetches user data from an API and exports it into a CSV file using custom formatting logic.
 
